@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+
+#carre{
+  position : absolute ;
+	width:100px;
+	height:100px;
+	background:#000;
+}
